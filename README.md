@@ -40,30 +40,26 @@ cd To-Do-List
 
 
 Run the application
-
 python todo.py
 
 
 🤝 Contributing
 
 Contributions are welcome!
-
 Fork the repo
-
 Create a new branch (feature-branch)
-
 Commit changes and push
-
 Open a Pull Request
 
 👩‍💻 Author
-
 VidhyaDharshinie S
 📧 Email: vidhyadharshinie475@gmail.com
 
-🔗 GitHub: VidhyaDharshinie
+🔗 Connect with me:
 
-💼 LinkedIn: Vidhya Dharshinie
+* [GitHub](https://github.com/VidhyaDharshinie)
+* [LinkedIn](https://www.linkedin.com/in/vidhya-dharshinie/)
+
 
 📜 License
 
